@@ -1,0 +1,7 @@
+us-east-1
+
+POST - https://ank8i3lqr9.execute-api.us-east-1.amazonaws.com/prod/notes
+GET - https://ank8i3lqr9.execute-api.us-east-1.amazonaws.com/prod/notes/{id}
+GET - https://ank8i3lqr9.execute-api.us-east-1.amazonaws.com/prod/notes
+PUT - https://ank8i3lqr9.execute-api.us-east-1.amazonaws.com/prod/notes/{id}
+DELETE - https://ank8i3lqr9.execute-api.us-east-1.amazonaws.com/prod/notes/{id}
